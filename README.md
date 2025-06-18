@@ -1,6 +1,6 @@
 # Raha Luxury
 
-تطبيق راحة لوكسري - تطبيق للعقارات الفاخرة وتأجير السيارات
+تطبيق راحة  - تطبيق لتاجير الشقق  الفاخرة وتأجير السيارات
 Raha Luxury - Luxury Real Estate and Car Rental Application
 
 ## Required Assets
