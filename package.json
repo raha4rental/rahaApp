@@ -1,6 +1,5 @@
 {
-  "name": "rahaapp",
-  "license": "0BSD",
+  "name": "raha-luxury",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,10 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~53.0.11",
+    "expo": "^53.0.12",
+    "expo-av": "~15.1.6",
+    "expo-image-picker": "~16.1.4",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
-    "react-native": "0.79.3"
+    "react-dom": "19.0.0",
+    "react-native": "0.79.4",
+    "react-native-web": "^0.20.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

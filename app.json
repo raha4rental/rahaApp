@@ -1,29 +1,30 @@
 {
   "expo": {
-    "name": "rahaApp",
-    "slug": "rahaApp",
+    "name": "Raha Luxury",
+    "slug": "raha-luxury",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/raha-logo.jpg",
+      "backgroundColor": "#B8956D",
+      "resizeMode": "contain"
     },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true
+        "backgroundColor": "#FFFFFF"
+      }
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
   }
 }
